@@ -1,6 +1,6 @@
 # Hi, I'm Jaden Vicaro
 
-  Data Analyst based in Dalls, Tx. Google Data Analytics certified. I build analytical tools and dashboards that turn raw data into clear decisions.
+  Data Analyst based in Dallas, Texas. Google Data Analytics certified. I build analytical tools and dashboards that turn raw data into clear decisions.
 
   ## Tools & Skills
   - **Languages:** Python (pandas, matplotlib), SQL
