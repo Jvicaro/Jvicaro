@@ -11,7 +11,7 @@
   | Project | Tools | Link |
   |---|---|---|
   | Video Game Industry Sales Analysis | Tableau | [View
-  Dashboard](https://public.tableau.com/views/VideoGameIndustrySalesAnalysis1980-2020/VideoGameIndustrySalesAnalysis1980-2020) |
+  Dashboard](https://public.tableau.com/views/VideoGameIndustrySalesAnalysis1980-2020/VideoGameIndustrySalesAnalysis1980-2020)
   | Steam Library Spend Analysis | Python, pandas, matplotlib | Coming soon |
   | Fitness Performance Tracker | Google Sheets, Apps Script | Coming soon |
 
